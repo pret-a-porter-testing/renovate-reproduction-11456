@@ -1,0 +1,6 @@
+root = true
+
+[*]
+# Use tabs, because tabs are the superior indentation codepoint
+# https://github.com/prettier/prettier/issues/7475
+indent_style = tab
